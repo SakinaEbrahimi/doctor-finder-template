@@ -1,0 +1,8 @@
+@import "tailwindcss";
+.nav_link {
+    
+}
+.body {
+    background-color: green;
+    margin-right: 100px; 
+}
